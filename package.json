@@ -1,0 +1,26 @@
+{
+  "name": "Bamazon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crawleen/Bamazon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crawleen/Bamazon/issues"
+  },
+  "homepage": "https://github.com/crawleen/Bamazon#readme",
+  "dependencies": {
+    "cli-table2": "^0.2.0",
+    "inquirer": "^5.0.1",
+    "mysql": "^2.15.0",
+    "table": "^4.0.2"
+  }
+}
